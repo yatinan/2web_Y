@@ -1,0 +1,16 @@
+body{
+   background-color: mistyrose;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: lightslategrey;
+}
+image{
+    background-color: aliceblue;
+}
+.circular{
+    border-radius: 100%;
+    background-color: whitesmoke;
+}
+
